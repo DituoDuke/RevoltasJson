@@ -1,7 +1,7 @@
 [
   {
     "nome": "A GUERRA DAS CISPLATINA",
-    "canvas": "/contexto"
+    "canvas": ""
   },
   {
     "nome": "MISSÃO ARTÍSTICA FRANCESA",
@@ -29,6 +29,6 @@
   },
   {
     "nome": "REVOLTA DOS MALÊS",
-    "canvas": ""
+    "canvas": "/contexto"
   }
 ]
